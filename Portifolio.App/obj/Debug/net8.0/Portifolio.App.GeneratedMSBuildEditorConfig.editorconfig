@@ -1,0 +1,87 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Portifolio.App
+build_property.RootNamespace = Portifolio.App
+build_property.ProjectDir = /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Components/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Components/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Db250YWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Components/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Gb290ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Components/Hero.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9IZXJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Components/Portfolio.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Qb3J0Zm9saW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Components/Skill.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Ta2lsbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Components/TypedText.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UeXBlZFRleHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Layout/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L0xvZ2luRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Layout/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L1JlZGlyZWN0VG9Mb2dpbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Pages/Authentication.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aGVudGljYXRpb24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Pages/ContactEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdEVtYWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/mizaeldouglasmello/Programação/WorkSpace-DotNet/Projetos/portifolio-blazor/Portfolio-app/Portifolio/Portifolio.App/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-i58do9qnjz
